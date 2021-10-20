@@ -24,12 +24,12 @@
 // document.write("Uzunligi = " + l);
 // alert(l);
 
-const savol = [];
+// const savol = [];
 
-savol[0] = prompt("Ismingizni kiriting?", "");
-savol[1] = prompt("Familyangizni kiriting?", "");
-savol[2] = +prompt("Yoshingiz?", "");
+// savol[0] = prompt("Ismingizni kiriting?", "");
+// savol[1] = prompt("Familyangizni kiriting?", "");
+// savol[2] = +prompt("Yoshingiz?", "");
 
-document.write("Ismi - " + savol[0] + "<br>");
-document.write("Familyasi - " + savol[1] + "<br>");
-document.write("Yoshi - " + savol[2] + "<br>");
+// document.write("Ismi - " + savol[0] + "<br>");
+// document.write("Familyasi - " + savol[1] + "<br>");
+// document.write("Yoshi - " + savol[2] + "<br>");
